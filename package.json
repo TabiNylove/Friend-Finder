@@ -1,0 +1,16 @@
+{
+  "name": "(friend-finder)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "friends.js",
+  "scripts": {
+    "test": "node friends.js"
+  },
+  "author": "Tabitha Love",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "path": "^0.12.7"
+  }
+}
